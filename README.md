@@ -2,6 +2,8 @@
 
 A modern, full-featured website for the Animation Club. Members can connect, share work, and stay updated with events and achievements. Admins manage everything securely and efficiently.
 
+Demo Video: https://youtu.be/EjOVbgOhT_8
+
 ## ✨ Features
 
 ### For Members
